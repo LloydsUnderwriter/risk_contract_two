@@ -4,10 +4,10 @@
 **FEE PAYABLE**
 
 **BY CLIENT?:**  
-YES or NO
+NO
 
 **TOTAL BROKERAGE:**  
-Z%
+x%
 
 **OTHER**
 
